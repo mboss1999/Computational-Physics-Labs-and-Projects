@@ -1,0 +1,4 @@
+https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b
+http://alexlenail.me/NN-SVG/index.html
+https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63
